@@ -4831,7 +4831,7 @@ telangana_map_plot_sn1
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Red- % Knowledge gain</span>"
 
 # MO1 mean pre post
 print(pre_post_mean_pct_mo1)
@@ -4841,7 +4841,7 @@ print(pre_post_mean_pct_mo1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Red- % Knowledge gain</span>"
 
 # ANM1 mean pre post
 print(pre_post_mean_pct_anm1)
@@ -4851,7 +4851,7 @@ print(pre_post_mean_pct_anm1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Red- % Knowledge gain</span>"
 
 # SN1 mean pre post
 print(pre_post_mean_pct_sn1)
@@ -4929,7 +4929,7 @@ print(districtwise_combined_percentage_plot_sn1)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Yellow- Test score below 50%</span>"
 
 # MO1 district wise
 df_questions_combined_mo1_gt
@@ -4939,7 +4939,7 @@ df_questions_combined_mo1_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Yellow- Test score below 50%</span>"
 
 # ANM1 district wise
 df_questions_combined_anm1_gt
@@ -4949,7 +4949,7 @@ df_questions_combined_anm1_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Yellow- Test score below 50%</span>"
 
 # SN1 district wise
 df_questions_combined_sn1_gt
@@ -5067,7 +5067,7 @@ print(telangana_map_plot_anm2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Red- % Knowledge gain</span>"
 
 # MO1 mean pre post
 print(pre_post_mean_pct_mo2)
@@ -5077,7 +5077,7 @@ print(pre_post_mean_pct_mo2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Mean Pre - Post Percentage</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Red- % Knowledge gain</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Red- % Knowledge gain</span>"
 
 # ANM1 mean pre post
 print(pre_post_mean_pct_anm2)
@@ -5135,7 +5135,7 @@ print(districtwise_combined_percentage_plot_anm2)
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Yellow- Test score below 50%</span>"
 
 # MO1 district wise
 df_questions_combined_mo2_gt
@@ -5145,7 +5145,7 @@ df_questions_combined_mo2_gt
 #| echo: false
 #| warning: false
 #| title: "<span style='font-size:14px;'>Question-wise Analysis</span>"
-#| fig-cap: "<span style='font-size:10px;'>*Yellow- Test score below 50%</span>"
+#| fig-cap: "<span style='font-size:12px;'>*Yellow- Test score below 50%</span>"
 
 # ANM1 district wise
 df_questions_combined_anm2_gt
